@@ -11,16 +11,16 @@ A compattability-based Friend Finder application. A minor project to create a Fr
 - express
 
 ### Screenshot Image of Landing Page
-![Landing Page]()
+![Landing Page](https://github.com/KATHERINERSL/Friend-Finder/blob/master/app/images/Landingpage.PNG)
 
 ### Screenshot of survey
-![Survey questions]()
+![Survey questions](https://github.com/KATHERINERSL/Friend-Finder/blob/master/app/images/surveyQ.PNG)
 
 #### Screenshot image of Results
-![Node Results]()
+![Node Results](https://github.com/KATHERINERSL/Friend-Finder/blob/master/app/images/nodeLog.PNG)
 
 ### Best Match
-![Best Match]()
+![Best Match](https://github.com/KATHERINERSL/Friend-Finder/blob/master/app/images/Capture.PNG)
 
 [Heroku]()
 
